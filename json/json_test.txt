@@ -1,0 +1,2 @@
+{"name": "Marco", "surname": "Barbosa", "age": 38, "account": -1000, "moreinfo": [1, 2, 3, 4, 5]}
+{"name": "Victor", "surname": "Hugo", "age": 105, "account": 0, "moreinfo": [-1, -2, -3]}

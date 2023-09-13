@@ -1,0 +1,10 @@
+# y = 2.0*x
+# z = 1.0 + x
+# x y z
+2019-04-11 12:20   # This is the header up to the 4th row - data format is different from the data (I use the edition date just as an example...)
+
+0  0.0  1.0
+1  2.0  2.0
+2  4.0  3.0
+3  6.0   - 
+10 20.0 11.0
