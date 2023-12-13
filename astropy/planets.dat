@@ -1,0 +1,13 @@
+# From https://ssd.jpl.nasa.gov/?planet_phys_par#B (2021-09-24)
+# Julian day  	  d = 	86400 s 
+# Julian year  	  y = 	365.25 d 
+# Planet  "Sidereal Orbit Period"
+mercury    0.2408467
+venus      0.61519726
+earth      1.0000174
+mars       1.8808476
+jupyter    11.862615
+saturn     29.447498
+uranus     84.016846
+neptune    164.79132
+pluto      247.92065

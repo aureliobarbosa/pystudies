@@ -1,0 +1,7 @@
+# From: https://ssd.jpl.nasa.gov/?constants
+
+ Julian day  	  d = 	86400 s 
+ Julian year  	  y = 	365.25 d 
+ Julian century  	  Cy = 	36525 d 
+ speed of light  	  c = 	299792458 m/s 
+ astronomical unit  	  au = 	149597870700 m 
